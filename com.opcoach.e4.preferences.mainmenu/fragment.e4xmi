@@ -13,5 +13,8 @@
     <elements xsi:type="menu:MenuContribution" xmi:id="_mUHZQBg9Eea5sOEu5jVdMg" elementId="com.opcoach.e4.preferences.mainmenu.menucontribution.1" positionInParent="after=additions" parentId="window">
       <children xsi:type="menu:HandledMenuItem" xmi:id="_s72iQBg9Eea5sOEu5jVdMg" elementId="id.preferences" label="Preferences" command="_oJElMBg8Eea5sOEu5jVdMg"/>
     </elements>
+    <elements xsi:type="menu:MenuContribution" xmi:id="_GxtcsAmTEee1qYOx9mKbsg" elementId="com.opcoach.e4.preferences.mainmenu.menucontribution.2" positionInParent="after=additions" parentId="com.sii.rental.eap.popupmenu.message">
+      <children xsi:type="menu:HandledMenuItem" xmi:id="_UjYc0AmTEee1qYOx9mKbsg" elementId="id.preferences" label="Preferences" command="_oJElMBg8Eea5sOEu5jVdMg"/>
+    </elements>
   </fragments>
 </fragment:ModelFragments>
